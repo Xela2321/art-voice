@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
     "@vercel/blob": "^1.1.1",
+    "@vercel/edge-config": "^1.4.0",
+    "cloudinary": "^2.6.1",
     "firebase": "^11.9.1",
     "framer-motion": "^12.17.3",
     "lucide-react": "^0.514.0",
